@@ -1,0 +1,18 @@
+Metadata-Version: 2.2
+Name: octav
+Version: 0.1.0
+Summary: A simple text colorizer for terminal
+Home-page: https://github.com/0c1av
+Author: Camil Caudron
+Author-email: 0c1avf@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
