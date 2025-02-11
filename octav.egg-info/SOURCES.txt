@@ -2,9 +2,8 @@ LICENSE
 README.md
 setup.py
 octav/__init__.py
-octav/octav.py
+octav/color.py
 octav.egg-info/PKG-INFO
 octav.egg-info/SOURCES.txt
 octav.egg-info/dependency_links.txt
 octav.egg-info/top_level.txt
-tests/test_octav.py
