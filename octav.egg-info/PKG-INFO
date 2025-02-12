@@ -1,7 +1,7 @@
 Metadata-Version: 2.2
 Name: octav
-Version: 0.1.0
-Summary: A simple text colorizer for terminal
+Version: 0.2.0
+Summary: A simple text modifier library
 Home-page: https://github.com/0c1av
 Author: Camil Caudron
 Author-email: 0c1avf@gmail.com
