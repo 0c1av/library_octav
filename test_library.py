@@ -1,3 +1,3 @@
-from octav import color
+from octav import color, style
 
-print(color.green("Hello in red!"))
+print(style.italic(color.red("Hello World!!")))
