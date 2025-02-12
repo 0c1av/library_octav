@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="octav",  # Package name
-    version="0.2.0",  # Initial version
+    version="0.2.1",  # Initial version
     packages=find_packages(),  # Finds the octav/ folder
     description="A simple text modifier library",  # Short description
     author="Camil Caudron",
